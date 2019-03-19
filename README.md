@@ -6,7 +6,8 @@
 <br>LSB Version:	:core-4.1-amd64:core-4.1-noarch<br>
 <br>Distributor ID:	CentOS<br>
 <br>Description:	CentOS Linux release 7.6.1810 (Core) <br>
-<br>Release:	7.6.1810<br>
+<br>Release:   	7.6.1810<br>
 <br>Codename:	Core<br>
 <br>python: 3.7.2 (tags/v3.7.2:9a3ffc0492, Dec 23 2018, 23:09:28) [MSC v.1916 64 bit (AMD64)]<br>
 <br>Matlab :2017<br>
+
