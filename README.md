@@ -9,5 +9,5 @@
 <br>Release:   	7.6.1810<br>
 <br>Codename:	Core<br>
 <br>python: 3.7.2 (tags/v3.7.2:9a3ffc0492, Dec 23 2018, 23:09:28) [MSC v.1916 64 bit (AMD64)]<br>
-<br>Matlab :2017<br>
+<br>Matlab :2017a<br>
 
