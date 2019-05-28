@@ -1,4 +1,4 @@
-# Predicting gene splice site based on WAM algorithm
+# Predicting gene splice site based on WAM algorithm   --- WAM算法预测基因剪接位点
 由于课程需要和数据量的巨大，要想在一周之内得出最佳的阈值C就必须开发出新的思路来计算  
 环境介绍：  
 4*Intel(R) Xeon(R) CPU E7-4820 v2 @2.00Ghz  
